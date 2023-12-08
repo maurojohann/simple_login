@@ -10,8 +10,12 @@ Aplicar meus conhecimentos no desenvolvimento de funcionalidades baseadas em mó
 A implementação de módulos separados em uma arquitetura monolítica oferece vantagens cruciais. Facilita a reutilização de código em outros projetos, promovendo escalabilidade e desenvolvimento paralelo eficiente, além de fortalecer o encapsulamento para simplificar a manutenção e reduzir impactos nas mudanças. Essa abordagem resulta em uma arquitetura mais modular, promovendo a sustentabilidade e evolução do sistema.
 
 ## Result:
+### Login:
 
-![Screenshot_1678124983](https://user-images.githubusercontent.com/15696360/223192439-2adc6e61-b0ed-4fd6-b646-2243c0ea6151.png)
+<img src="https://github.com/maurojohann/simple_login/assets/15696360/48290efb-a087-4845-a6bf-843577d01468" width="200">
+
+### Characters:
+<img src="https://user-images.githubusercontent.com/15696360/223192439-2adc6e61-b0ed-4fd6-b646-2243c0ea6151.png" width="400">
 
   
 ## Features:
