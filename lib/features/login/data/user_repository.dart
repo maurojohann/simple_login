@@ -7,6 +7,6 @@ class UserRepositoryLocal implements UserRepository {
   Future<bool> signinAuth(String user, String password) async {
     await Future.delayed(const Duration(seconds: 1));
 
-    return user == 'cooper' && password == 'card';
+    return user == 'mjh' && password == '123456';
   }
 }

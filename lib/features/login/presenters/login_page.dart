@@ -128,8 +128,8 @@ class LoginPageState extends State<LoginPage> {
   List<Widget> buildSignUpSection() {
     return const [
       Text('Ainda não tem uma conta?'),
-      Text('User: copper'),
-      Text('password: card'),
+      Text('User: mjh'),
+      Text('password: 123456'),
     ];
   }
 }
